@@ -1,5 +1,4 @@
 <?php
-/** Edit by Nijil **/
 
 		 $status= $_REQUEST['Status'];
 		 $cust_ref_no= $_REQUEST['ReferenceNo'];
