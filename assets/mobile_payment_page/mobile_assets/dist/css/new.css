@@ -1,0 +1,35 @@
+/*# New */
+body{
+	background:url(../../dist/img/bg.jpg)
+	}
+.no-padding{
+	padding:0 !important;
+	}
+.padding-bottom{
+	padding-bottom:10px!important;
+	}
+.blue-box{
+	background:#cdebf5;
+	color:#1a858f;
+	border-radius:50px;
+	padding:10px;
+	font-size:13px;
+	margin:2px 0;
+	font-size:12px;
+	}
+.blue-box i{
+	width:100%;
+	float:left;	
+	}
+.blue-box p{
+	padding:10px 0 0 0;
+	font-size:14px;
+	margin:0!important;
+	}
+.blue-close{
+	width:30px;
+	height:30px;
+	margin-top:5px;
+	border-radius:50px;
+	background:#000;
+	}
